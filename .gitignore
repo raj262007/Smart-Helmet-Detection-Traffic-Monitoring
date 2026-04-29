@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+
+# Dataset (too large)
+dataset/
+
+# Snapshots
+snapshots/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+data/violations.db
+
+# Model weights 
+models/
+
+# Reports
+reports/
+
+# VS Code settings
+.vscode/
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+yolov8n.pt
